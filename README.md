@@ -43,7 +43,7 @@ Hi, I'm Patryk Kudlik. I'm self motivated individual Front-end Developer from Po
     <img 
         src="https://img.shields.io/badge/codepen-%231E1F26.svg?&style=for-the-badge&logo=codepen&logoColor=white" 
         alt="Badge"
-        title="Codepen"
+        title="CodePen"
         height="25"
     >
 </a> 
