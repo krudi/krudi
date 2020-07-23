@@ -14,7 +14,7 @@ Hi, I'm Patryk Kudlik. I'm self motivated individual Front-end Developer from Po
     </a> 
     <a href="https://twitter.com/patryk_kudlik" title="Twitter" target="_blank" style="text-decoration: none !important;">
         <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Badge" title="Twitter" height="25" />
-    </a> 
+    </a>
     <a href="https://codepen.io/krudi" title="CodePen" target="_blank" style="text-decoration: none !important;">
         <img src="https://img.shields.io/badge/codepen-%231E1F26.svg?&style=for-the-badge&logo=codepen&logoColor=white" alt="Badge" title="CodePen" height="25" />
     </a>
