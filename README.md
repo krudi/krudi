@@ -21,7 +21,8 @@ Hi, I'm Patryk Kudlik. I'm self motivated individual Front-end Developer from Po
 </p>
 
 <p>
+    &ndash;	
     <a href="https://patrykkudlik.com" title="Portfolio" target="_blank">
-        &ndash;	Visit my website
+        Visit my website
     </a>
 </p>
